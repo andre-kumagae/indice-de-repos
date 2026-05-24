@@ -15,3 +15,5 @@
 
 [Módulo BFF](https://github.com/andre-kumagae/bff-agendador-de-tarefas)
 
+## Livros
+[Resolvendo exercícios do livro "Java®: Como Programar"](https://github.com/andre-kumagae/livro-java-como-programar)
