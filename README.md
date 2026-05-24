@@ -1,5 +1,6 @@
-# indice-de-repos
-Índice de repositórios
+# Índice de repositórios
+
+Índice de repositórios de estudos.
 
 # Cursos
 
