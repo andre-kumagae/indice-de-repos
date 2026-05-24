@@ -15,5 +15,9 @@
 
 [Módulo BFF](https://github.com/andre-kumagae/bff-agendador-de-tarefas)
 
+## DIO.me
+
+[Bootcamp NTT DATA: Backend Java com Spring AI](https://github.com/andre-kumagae/Bootcamp-NTT-DATA-Backend-Java-com-Spring-AI)
+
 ## Livros
 [Resolvendo exercícios do livro "Java®: Como Programar"](https://github.com/andre-kumagae/livro-java-como-programar)
